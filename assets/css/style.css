@@ -1,0 +1,7 @@
+.circle{
+    height: 250px;
+    width: 250px;
+    background: red;
+    border-radius: 50%;
+    cursor: pointer;
+}
